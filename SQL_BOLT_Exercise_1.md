@@ -1,0 +1,26 @@
+# SQL_BOLT Exercise 1
+
+## 1
+```sql
+SELECT TITLE FROM MOVIES;
+```
+
+## 2
+```sql
+SELECT DIRECTOR FROM MOVIES;
+```
+
+## 3
+```sql
+SELECT TITLE, DIRECTOR FROM MOVIES;
+```
+
+## 4
+```sql
+SELECT TITLE, YEAR FROM MOVIES;
+```
+
+## 5
+```sql
+SELECT * FROM MOVIES;
+```
